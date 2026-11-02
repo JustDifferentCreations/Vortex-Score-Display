@@ -2,7 +2,7 @@
 
 The scoreboard and game controller for **Vortex Control**, a vertical pinball machine that is still in progress. Four 7-segment readouts show the balls left, the lit hole value, the score and the credits, and the board runs the game rules.
 
-Designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB-Only Builds](https://justdif.com/pcb-only-builds/) page.
+Designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB Projects](https://justdif.com/pcb-projects/) page.
 
 ## How the game plays
 
